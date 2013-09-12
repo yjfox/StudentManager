@@ -1,0 +1,40 @@
+Authorised User 1:
+First Name: Larry
+Last Name: Hay
+
+Username: LHay
+
+Department: Tourism
+
+PIN (Personal Identification Number): 1852
+
+Authorised User 2:
+First Name: Maggie
+Last Name: Ziyi
+
+Username: MZiyi
+
+Department: Maths
+
+PIN (Personal Identification Number): 4882
+
+--------------------------------------------------------------------------------
+Student 1:
+First Name: Candice
+Last Name: McDonald
+
+Student ID: 435468
+
+Major: Information Systems
+
+Fee : $1,500.00
+
+Student 2:
+First Name: Dalas
+Last Name: Smyth
+
+Student ID: 458882
+
+Major: Chinese History
+
+Fee : $1,350.00

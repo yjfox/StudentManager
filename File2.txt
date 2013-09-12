@@ -1,0 +1,6 @@
+Bob;Gatting;324512;Chinese History;1350.00;
+Bradley;Morecambe;324867;Computing;2100.00;
+Percy;Mitchell;345789;Aquaculture;1499.00;
+Lynne;Evans;334568;Information Systems;1500.00;
+Mike;Watkinson;343789;Computing;2100.00;
+Dale;Newhart;397642;English;949.00;

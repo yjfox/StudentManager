@@ -1,0 +1,6 @@
+Alberto;Bertorelli;245125;Aquaculture;1945.00;
+Adna;Bertorelli;248675;Information Systems;1500.00;
+Engelbert;Smallhaussen;457895;English;949.00;
+Engelbert;Largehaussen;345685;Chinese History;1350.00;
+John;Fairfax;437895;Computing;2100.00;
+Nick;Carstairs;976425;Information Systems;1500.00;
